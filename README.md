@@ -31,7 +31,7 @@ Para atender às exigências práticas, foram integrados diversos componentes na
 - **Modal (Janelas Flutuantes):** Modais interativos acionados por botões para exibir a história detalhada de ídolos como Luis Suárez, Renato Gaúcho e Danrlei.
 - **Collapse (Efeito Recolhível):** Utilizado para exibir curiosidades ocultas e otimizar o espaço do ecrã.
 - **Forms (Formulários):** Formulário completo de candidatura para novos sócios com validações de estilo do Bootstrap.
-
+ 
 ---
 
 ## 🚀 Como Executar o Projeto Localmente
